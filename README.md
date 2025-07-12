@@ -29,7 +29,7 @@ cd roi-movies
 npm install
 npm start
 
-
+```
 
 📬 Contact
 
@@ -39,8 +39,10 @@ Email: gerbeshierion19@gmail.com
 
 LinkedIn: Erion Gerbeshi
 
-
 ⚠️ Disclaimer
 This project is for learning and demonstration purposes only.
 All code is written by Erion Gerbeshi and protected under the MIT License.
+
+```
+
 ```
