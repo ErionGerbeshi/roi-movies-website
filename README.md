@@ -11,6 +11,12 @@ A responsive and interactive movie listing app built with React.js. This project
 - React hooks for state management (useState, useEffect)
 - Clean, responsive UI
 
+## 🎬 Demo Video
+
+“A short demo of this app is available on Loom.”
+
+▶️ [Watch Project Walkthrough on Loom](https://www.loom.com/share/8df2f89a244946e3b2a0aabfacd32839?sid=8a30042c-89f3-4808-889f-83e0c48ac618)
+
 ## 🛠 Tech Stack
 
 - React.js
