@@ -31,18 +31,14 @@ npm start
 
 ```
 
-📬 Contact
+## 📬 Contact
 
-GitHub: @ErionGerbeshi
+**GitHub:** [@ErionGerbeshi](https://github.com/ErionGerbeshi)  
+**Email:** [gerbeshierion19@gmail.com](mailto:gerbeshierion19@gmail.com)  
+**LinkedIn:** [Erion Gerbeshi](https://www.linkedin.com/in/erion-gerbeshi)
 
-Email: gerbeshierion19@gmail.com
+---
 
-LinkedIn: Erion Gerbeshi
-
-⚠️ Disclaimer
-This project is for learning and demonstration purposes only.
-All code is written by Erion Gerbeshi and protected under the MIT License.
-
-```
-
-```
+⚠️ **Disclaimer**  
+This project is for learning and demonstration purposes only.  
+All code is written by **Erion Gerbeshi** and protected under the **MIT License**.
